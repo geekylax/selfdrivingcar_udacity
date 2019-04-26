@@ -3,8 +3,8 @@ This is the code for "How to Simulate a Self-Driving Car" by Siraj Raval on Yout
 
 And this model is an experiment that i gained from the youtube tutorial  and im trying to improvize this architecture in differnt scenarios
 
-<img src="images/unity.gif" alt="Self-Driving Car" width="800px">
-<!-- 
+<!-- <img src="images/unity.gif" alt="Self-Driving Car" width="800px">
+ --><!-- 
 [![car]({{ site.url }}/images/unity.gif))]({{ site.url }}/images/unity.gif)) -->
 
 ## ToDo 
