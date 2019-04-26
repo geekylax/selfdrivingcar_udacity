@@ -3,7 +3,10 @@ This is the code for "How to Simulate a Self-Driving Car" by Siraj Raval on Yout
 
 And this model is an experiment that i gained from the youtube tutorial  and im trying to improvize this architecture in differnt scenarios
 
-[![car]({{ site.url }}/images/unity.gif))]({{ site.url }}/images/unity.gif))
+<img src="images/unity.gif" alt="Self-Driving Car" width="800px">
+<!-- 
+[![car]({{ site.url }}/images/unity.gif))]({{ site.url }}/images/unity.gif)) -->
+
 ## ToDo 
 
 1. Check this repo and implement own Simulated car in unity [NFS](https://github.com/anubhavshrimal/Simulated_Self_Driving_Car) 
